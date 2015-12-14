@@ -72,5 +72,5 @@ Master 确认是否选课成功，并通过邮件或 PushBullet 推送消息。
 4. 将代码写得更加Pythonic
 
 
-## Liscense
-[MIT-Liscense](http://mit-license.org/)
+## License
+[MIT-Liscense](http://mit-license.org/) &copy; 2015 xNathan.
